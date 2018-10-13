@@ -1,6 +1,7 @@
 # Adds two values
-num1 = 86.99
-num2 = 35.15
+num1 = iput("input first number")
+num2 = iput("input second number")
+
 
 sum = float(num1) + float(num2)
 
